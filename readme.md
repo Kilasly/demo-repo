@@ -1,3 +1,3 @@
 # Demo
 
-informaation about git
+informaation about git and more
